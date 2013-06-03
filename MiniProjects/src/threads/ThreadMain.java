@@ -14,6 +14,8 @@ public class ThreadMain {
 		
 		t1.start();
 		
+		System.out.println("Change");
+		
 	}
 
 }
